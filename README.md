@@ -17,7 +17,7 @@ Aplikasi sinkronisasi data Egg Counter AI ke server ABI, berjalan otomatis setia
    releaseB/
    ├── excel/
    │   └── day.csv
-   └── abi-egg-counter-client/
+   └── abi-egg-counter-client-runner/
        ├── abi-egg-counter-client.exe
        ├── init.cmd
        ├── set-credential.cmd
